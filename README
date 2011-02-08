@@ -1,4 +1,5 @@
-Use this script to make a report of all live (pinging) IP addresses on a whole C-network (IPv4).
+Use this script to make a report of all live (pinging) IP addresses on
+a whole C-network (IPv4).
 
-Invoking ./liveips.sh 1.2.3 will make a file '1.2.3.live' in the current working directory with
-the report for 1.2.3.[1-255].
+Invoking ./liveips.sh 1.2.3 will make a file '1.2.3.live' in the
+current working directory with the report for 1.2.3.[1-255].
